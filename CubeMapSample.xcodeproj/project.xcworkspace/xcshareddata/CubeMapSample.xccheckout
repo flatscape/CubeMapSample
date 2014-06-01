@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A2A46439-4A9A-4FF3-BF03-9FD7D7971959</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CubeMapSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80AEDEDA-419B-4FD9-990E-9A7E0BC247CC</key>
+		<string>https://github.com/flatscape/CubeMapSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CubeMapSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80AEDEDA-419B-4FD9-990E-9A7E0BC247CC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/flatscape/CubeMapSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80AEDEDA-419B-4FD9-990E-9A7E0BC247CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80AEDEDA-419B-4FD9-990E-9A7E0BC247CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CubeMapSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
